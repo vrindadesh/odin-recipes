@@ -1,0 +1,30 @@
+h1,
+h3 {
+    font-family: "Brush Script MT", cursive
+}
+
+h1 {
+    color: lightseagreen;
+    font-size: 75px
+}
+
+h3 {
+    background-color: darkgreen;
+    color: white;
+    font-size: 36px
+}
+
+ul ol {
+    font-style: italic;
+    color: goldenrod;
+    background-color: darkslategray
+}
+
+body {
+    font-family: sans-serif
+}
+
+img {
+    width: 600px;
+    height: auto
+}
